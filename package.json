@@ -1,0 +1,11 @@
+{
+  "name": "read-context-settings",
+  "version": "1.0.1",
+  "description": "A tool for reading context settings from the various Core article types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathanael Scott <scott.nathanael@abc.net.au>",
+  "license": "ISC"
+}
